@@ -1,0 +1,862 @@
+<!doctype html><!-- start coded_template: id:4945144913 path:generated_layouts/4944888131.html --><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" > <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en" >        <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="en" >               <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="NGP VAN">
+    <meta name="description" content="Raise more money &amp; drive more action with Digital 8, a ground-up build of email, online, and social tools with the most robust set of features available.">
+    <meta name="generator" content="HubSpot">
+    <title>Digital 8 by NGP VAN</title>
+    <link rel="shortcut icon" href="https://act.ngpvan.com/hubfs/images/favicon_1.ico?t=1519755076473">
+    
+
+    <script src="https://static.hsstatic.net/jquery-libs/static-1.4/jquery/jquery-1.11.2.js"></script>
+    <script type="text/javascript">hsjQuery = window['jQuery']</script>
+    <link href="https://static.hsstatic.net/content_shared_assets/static-1.4049/css/public_common.css" rel="stylesheet">
+    <meta property="og:description" content="Raise more money &amp; drive more action with Digital 8, a ground-up build of email, online, and social tools with the most robust set of features available.">
+    <meta property="og:title" content="Digital 8 by NGP VAN">
+    <meta name="twitter:description" content="Raise more money &amp; drive more action with Digital 8, a ground-up build of email, online, and social tools with the most robust set of features available.">
+    <meta name="twitter:title" content="Digital 8 by NGP VAN">
+
+
+    
+    
+
+    
+    
+    <link rel="canonical" href="https://act.ngpvan.com/digital8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Google Tag Manager -->
+<noscript>&lt;iframe  src="//www.googletagmanager.com/ns.html?id=GTM-N34J73" height="0" width="0" style="display:none;visibility:hidden"&gt;</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N34J73');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Font Loader -->
+<script>
+WebFontConfig = {
+  google: { families: [ 'Lato:400,300,100,700,900,900italic,700italic,400italic,300italic,100italic:latin', 'Merriweather:400,300,300italic,400italic,700,700italic:latin' ] }
+};
+
+(function() {
+  var wf = document.createElement('script');
+  wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+    '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+  wf.type = 'text/javascript';
+  wf.async = 'true';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(wf, s);
+})();
+</script>
+<!-- End Google Font Loader -->
+
+<!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nuvot', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+&lt;img  height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nuvot&amp;amp;p_id=Twitter&amp;amp;tw_sale_amount=0&amp;amp;tw_order_quantity=0"&gt;
+&lt;img  height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nuvot&amp;amp;p_id=Twitter&amp;amp;tw_sale_amount=0&amp;amp;tw_order_quantity=0"&gt;
+</noscript>
+<!-- End Twitter universal website tag code -->
+
+
+
+<meta property="og:url" content="https://act.ngpvan.com/digital8">
+<link href="//cdn2.hubspot.net/hub/-1/hub_generated/template_assets/1495141902003/hubspot_default/shared/responsive/layout.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://act.ngpvan.com/hs-fs/hub/661521/hub_generated/style_manager/1447172059240/custom/page/global/import.min.css">
+
+
+
+    <!-- The style tag has been deprecated. Attached stylesheets are included in the required_head_tags page variable. -->
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:100,300,400,500" type="text/css">
+
+<script src="//use.typekit.net/mve5hrx.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+<!--<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54b59a1019304b26" async="async"></script>-->
+
+<script>
+      var toggleMenu = function(el) {
+        var that = $('#everything');
+        if(that.hasClass('menu-open')) {
+          that.removeClass('menu-open');
+        } else {
+          that.addClass('menu-open');
+        }
+      }     
+      $(window).resize(function() {
+        if($('#everything').hasClass('menu-open') && !$('.app-navigation-toggle').is(':visible')) {
+          $('#everything').removeClass('menu-open');
+        }
+      });
+</script>
+    
+
+</head>
+<body class="major-landing-page   hs-content-id-4945286340 hs-landing-page hs-page " style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div id="everything" class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="documentation">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14861494632741067" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><header class="app-header no-nav">
+<section class="app-nav-header">
+<div class="app-nav-container">
+<div class="app-navigation-toggle"><a onclick="toggleMenu(this)" class="toggle-icon"><img src="/images/menu-toggle.svg"></a></div><div class="app-branding"><a href="/" class="app-title"><img src="https://act.ngpvan.com/hubfs/ngpvan-logo-white.svg?t=1519755076473" style="width:110px;margin-top:5px;"></a></div><ul class="app-navigation"><li class="has-sub"><a href="#" class="nest"><span style="margin-right: 5px;">Product</span><i class="ti-angle-down"></i></a><div class="sub-menu"><ul class="packages"><li data-package="ngp" class="package">
+<h4>ngp:</h4><ul class="features"><li><a href="https://www.ngpvan.com/feature/targeted-email">Targeted Email</a></li><li><a href="https://www.ngpvan.com/feature/fundraising">Fundraising</a></li><li><a href="https://www.ngpvan.com/feature/online-actions">Online Actions</a></li><li><a href="https://www.ngpvan.com/feature/online-contributions">Online Contributions</a></li><li><a href="https://www.ngpvan.com/feature/compliance-reporting">Compliance Reporting</a></li><li><a href="https://www.ngpvan.com/feature/social-fundraising">Social Fundraising</a></li><li><a href="https://www.ngpvan.com/feature/social-network-integration">Social Network Integration</a></li><li><a href="https://www.ngpvan.com/feature/contact-management">Contact Management</a></li><li><a href="https://www.ngpvan.com/feature/website">Website</a></li><li><a href="https://www.ngpvan.com/feature/event-management">Event Management</a></li></ul></li><li data-package="van" class="package">
+<h4>van:</h4><ul class="features"><li><a href="https://www.ngpvan.com/feature/action-center">Action Center</a></li><li><a href="https://www.ngpvan.com/feature/casework">Casework</a></li><li><a href="https://www.ngpvan.com/feature/minivan-manager">MiniVAN Manager</a></li><li><a href="https://www.ngpvan.com/feature/paid-phones">Paid Phones</a></li><li><a href="https://www.ngpvan.com/feature/votebuilder">VoteBuilder </a></li></ul></li></ul></div></li><li>
+<a href="https://www.ngpvan.com/about">About</a></li><li>
+<a href="https://www.ngpvan.com/careers">Careers</a></li><li>
+<a href="https://www.ngpvan.com/press">Press</a></li><li>
+<a href="//blog.ngpvan.com/">Blog</a></li>
+<li class="signup"><a href="https://act.ngpvan.com/get-elected">Get a Demo</a></li></ul></div></section><section class="app-navigation-mobile"><header class="mobile-header"></header>
+<section class="mobile-menu"><ul class="filter"><li class="filter-row">
+<a href="https://www.ngpvan.com/about"><section class="filter-name">About Us</section></a></li><li class="filter-row"><a href="/press"><section class="filter-name">Press</section></a></li><li class="filter-row"><a href="/careers"><section class="filter-name">Careers</section></a></li></ul><h6 class="sidebar-title">NGP</h6><ul class="filter"><li class="filter-row"><a href="/feature/targeted-email"><section class="filter-name">Targeted Email</section></a></li><li class="filter-row"><a href="/feature/fundraising"><section class="filter-name">Fundraising</section></a></li><li class="filter-row"><a href="/feature/online-actions"><section class="filter-name">Online Actions</section></a></li><li class="filter-row"><a href="/feature/online-contributions"><section class="filter-name">Online Contributions</section></a></li><li class="filter-row"><a href="/feature/compliance-reporting"><section class="filter-name">Compliance Reporting</section></a></li><li class="filter-row"><a href="/feature/social-fundraising"><section class="filter-name">Social Fundraising</section></a></li><li class="filter-row"><a href="/feature/social-network-integration"><section class="filter-name">Social Network Integration</section></a></li><li class="filter-row"><a href="/feature/contact-management"><section class="filter-name">Contact Management</section></a></li><li class="filter-row"><a href="/feature/website"><section class="filter-name">Website</section></a></li><li class="filter-row"><a href="/feature/event-management"><section class="filter-name">Event Management</section></a></li></ul><h6 class="sidebar-title">VAN</h6><ul class="filter"><li class="filter-row"><a href="/feature/action-center"><section class="filter-name">Action Center</section></a></li><li class="filter-row"><a href="/feature/casework"><section class="filter-name">Casework</section></a></li><li class="filter-row"><a href="/feature/minivan-manager"><section class="filter-name">MiniVAN Manager</section></a></li><li class="filter-row"><a href="/feature/paid-phones"><section class="filter-name">Paid Phones</section></a></li><li class="filter-row"><a href="/feature/votebuilder"><section class="filter-name">Votebuilder</section></a></li></ul></section></section></header></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+      </div>
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div id="container" class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_147861936624014051" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><section class="mobile-overlay"></section></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell body-card card-with-background" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-linked_image card-background-image" style="" data-widget-type="linked_image" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14737147234631928" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Crop_DeathtoStock_Creative_Community3.jpg?t=1519755076473&amp;width=1935&amp;name=Crop_DeathtoStock_Creative_Community3.jpg" class="hs-image-widget " style="width:1935px;border-width:0px;border:0px;" width="1935" alt="Crop_DeathtoStock_Creative_Community3.jpg" title="Crop_DeathtoStock_Creative_Community3.jpg" srcset="https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Crop_DeathtoStock_Creative_Community3.jpg?t=1519755076473&amp;width=968&amp;name=Crop_DeathtoStock_Creative_Community3.jpg 968w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Crop_DeathtoStock_Creative_Community3.jpg?t=1519755076473&amp;width=1935&amp;name=Crop_DeathtoStock_Creative_Community3.jpg 1935w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Crop_DeathtoStock_Creative_Community3.jpg?t=1519755076473&amp;width=2903&amp;name=Crop_DeathtoStock_Creative_Community3.jpg 2903w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Crop_DeathtoStock_Creative_Community3.jpg?t=1519755076473&amp;width=3870&amp;name=Crop_DeathtoStock_Creative_Community3.jpg 3870w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Crop_DeathtoStock_Creative_Community3.jpg?t=1519755076473&amp;width=4838&amp;name=Crop_DeathtoStock_Creative_Community3.jpg 4838w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Crop_DeathtoStock_Creative_Community3.jpg?t=1519755076473&amp;width=5805&amp;name=Crop_DeathtoStock_Creative_Community3.jpg 5805w" sizes="(max-width: 1935px) 100vw, 1935px"></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-cell left-column-content" style="" data-widget-type="cell" data-x="0" data-w="6">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-header " style="" data-widget-type="header" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1372098495362416" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_header" style="" data-hs-cos-general-type="widget" data-hs-cos-type="header"><h1>Digital 8</h1></span></div><!--end layout-widget-wrapper -->
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-text highlight-text" style="" data-widget-type="text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14818330712371194" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="text">The Best Digital Tools for Democratic Campaigns</span></div><!--end layout-widget-wrapper -->
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text main-text-block" style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_left_column" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p>Raise more money &amp; drive more action with Digital 8, a ground-up build of email, online, and social tools with the most robust set of features available.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Fill out the form to find out more &gt;&gt;</p>
+<p>&nbsp;</p></span>
+</div><!--end layout-widget-wrapper -->
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span1 widget-span widget-type-space " style="" data-widget-type="space" data-x="6" data-w="1">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_147862526102235707" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_space" style="" data-hs-cos-general-type="widget" data-hs-cos-type="space"></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span5 widget-span widget-type-cell landing-page-form" style="" data-widget-type="cell" data-x="7" data-w="5">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-form " style="" data-widget-type="form" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_main_form" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_form" style="" data-hs-cos-general-type="widget" data-hs-cos-type="form"><h3 id="hs_cos_wrapper_main_form_title" class="hs_cos_wrapper form-title" data-hs-cos-general-type="widget_field" data-hs-cos-type="text"></h3>
+
+<div id="hs_form_target_main_form"></div>
+
+    
+     
+
+
+
+
+
+
+
+</span>
+</div><!--end layout-widget-wrapper -->
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell body-card" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1489604032656508" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h4><span style="font-size: 14px;">&nbsp;</span></h4>
+<h4>&nbsp;<span style="font-size: 14px;">&nbsp;<img src="https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TrustedbyLogos.png?t=1519755076473&amp;width=1038&amp;height=100&amp;name=TrustedbyLogos.png" alt="" title="TrustedbyLogos.png" width="1038" height="100" style="display: block; margin-left: auto; margin-right: auto;" srcset="https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TrustedbyLogos.png?t=1519755076473&amp;width=519&amp;height=50&amp;name=TrustedbyLogos.png 519w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TrustedbyLogos.png?t=1519755076473&amp;width=1038&amp;height=100&amp;name=TrustedbyLogos.png 1038w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TrustedbyLogos.png?t=1519755076473&amp;width=1557&amp;height=150&amp;name=TrustedbyLogos.png 1557w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TrustedbyLogos.png?t=1519755076473&amp;width=2076&amp;height=200&amp;name=TrustedbyLogos.png 2076w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TrustedbyLogos.png?t=1519755076473&amp;width=2595&amp;height=250&amp;name=TrustedbyLogos.png 2595w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TrustedbyLogos.png?t=1519755076473&amp;width=3114&amp;height=300&amp;name=TrustedbyLogos.png 3114w" sizes="(max-width: 1038px) 100vw, 1038px">&nbsp;</span>&nbsp;</h4></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell body-card" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell card-standard-title" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-header " style="" data-widget-type="header" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_148184016062368565" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_header" style="" data-hs-cos-general-type="widget" data-hs-cos-type="header"><h1>Targeted Email</h1></span></div><!--end layout-widget-wrapper -->
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-text card-subtext" style="" data-widget-type="text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_148184016683869167" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="text">Raise more money &amp; drive more action from your supporters with an advanced email platform built for campaign pros.&nbsp;</span></div><!--end layout-widget-wrapper -->
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell card-standard-body" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-5 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-rich_text card-body-text" style="" data-widget-type="rich_text" data-x="0" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_148184031530279695" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><ul>
+<li>
+<h3><strong>Industry-Leading Deliverability Rates</strong></h3>
+<p>Utilize the tool with the highest inbox placements in the industry, according to impartial reports from ReturnPath. Work with our dedicated deliverability expert, who helps your campaign without additional cost to ensure your message reaches your supporters.</p>
+</li>
+<li>
+<h3><strong>Email Series</strong></h3>
+<p>Design an automated series of emails to help welcome subscribers to your campaign, turn one-time donors into sustainers, or re-engage inactive subscribers.</p>
+</li>
+<li>
+<h3><strong>One-Click Actions</strong></h3>
+<p>With just one-click, supporters can join your email list, sign up to volunteer, or make a donation to your campaign.&nbsp;</p>
+</li>
+<li>
+<h3><strong>Conditional Content &amp; Dynamic Ask Strings</strong></h3>
+<p>Personalize emails by sending different content to email recipients based on dozens of merge fields, and tailor fundraising ask amounts based&nbsp;on a supporter's giving history.</p>
+<h3><strong>ActBlue Tracker</strong></h3>
+<p class="p1"><span class="s1">Pull donation and conversion stats from your ActBlue pages into your email dashboard automatically with our new ActBlue Tracker.</span></p>
+<h3><strong>Multivariate Testing</strong></h3>
+<p>Increase your impact each time you press send. A through J multivariate testing is easy-to-use, and allows for up to ten tests to ensure maximum control and effectiveness.</p>
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+</li>
+</ul></span>
+</div><!--end layout-widget-wrapper -->
+   </div><!--end widget-span -->
+<div class="span6 widget-span widget-type-linked_image card-standard-image" style="" data-widget-type="linked_image" data-x="6" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_148184032600380950" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TE_Digital8_update.png?t=1519755076473&amp;width=1000&amp;name=TE_Digital8_update.png" class="hs-image-widget " style="width:1000px;border-width:0px;border:0px;" width="1000" alt="TE_Digital8_update.png" title="TE_Digital8_update.png" srcset="https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TE_Digital8_update.png?t=1519755076473&amp;width=500&amp;name=TE_Digital8_update.png 500w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TE_Digital8_update.png?t=1519755076473&amp;width=1000&amp;name=TE_Digital8_update.png 1000w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TE_Digital8_update.png?t=1519755076473&amp;width=1500&amp;name=TE_Digital8_update.png 1500w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TE_Digital8_update.png?t=1519755076473&amp;width=2000&amp;name=TE_Digital8_update.png 2000w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TE_Digital8_update.png?t=1519755076473&amp;width=2500&amp;name=TE_Digital8_update.png 2500w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/TE_Digital8_update.png?t=1519755076473&amp;width=3000&amp;name=TE_Digital8_update.png 3000w" sizes="(max-width: 1000px) 100vw, 1000px"></span></div><!--end layout-widget-wrapper -->
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell body-card" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell card-standard-title" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-3 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-header " style="" data-widget-type="header" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1486073457438527" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_header" style="" data-hs-cos-general-type="widget" data-hs-cos-type="header"><h1>Online Actions</h1></span></div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-4 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-text card-subtext" style="" data-widget-type="text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1486073683172552" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="text">Create beautiful, responsive sign-up, volunteer, and donation pages, and easily link or embed them into any website.</span></div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell card-standard-body" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-6 ">
+    <div class="row-fluid ">
+<div class="span6 widget-span widget-type-rich_text card-body-text" style="" data-widget-type="rich_text" data-x="0" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1486073534010539" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><ul>
+<li>
+<h3><strong>Higher Conversion Rates Through Network Effect</strong></h3>
+<p><span style="font-weight: 400;">Tap into our massive FastAction network of over 59 million Action Profiles&nbsp;across NGP VAN’s tools. 33% of forms have at least one field pre-filled due to a previous action being taken within our network, giving you a 3.5x boost in your conversion rates.</span></p>
+</li>
+<li>
+<h3><strong>Chaptering &amp; Affiliates Management</strong></h3>
+<p><span style="font-weight: 400;">Use chaptering functionality to share content – including form themes and email templates – with other committees, campaigns or affiliated organizations.&nbsp;</span></p>
+</li>
+<li>
+<h3><strong>Unlimited, Customizable Forms</strong></h3>
+<p><span style="font-weight: 400;">Create as many&nbsp;online forms as you like and customize each to be exactly what you want with new Themes form wrappers. Add custom fields, save and use theme templates, adjust ask amounts, and more.</span></p>
+</li>
+<li>
+<h3><strong>Self-Service Donor Portals</strong></h3>
+<p><span style="font-weight: 400;">Allow supporters to independently update their contact record, set email preferences, and fix expired credit card information – saving staff the hassle of updating this information themselves.</span></p>
+</li>
+<li>
+<h3><strong>Mobile Responsiveness</strong></h3>
+<p><span style="font-weight: 400;">Provide&nbsp;supporters a seamless experience on any device. Mobile responsive forms lead to higher conversion rates and a better user experience.</span></p>
+</li>
+</ul></span>
+</div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+<div class="span6 widget-span widget-type-linked_image card-standard-image" style="" data-widget-type="linked_image" data-x="6" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1486073654619550" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/OA_forms_lp_update.png?t=1519755076473&amp;width=1000&amp;name=OA_forms_lp_update.png" class="hs-image-widget " style="width:1000px;border-width:0px;border:0px;" width="1000" alt="OA_forms_lp_update.png" title="OA_forms_lp_update.png" srcset="https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/OA_forms_lp_update.png?t=1519755076473&amp;width=500&amp;name=OA_forms_lp_update.png 500w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/OA_forms_lp_update.png?t=1519755076473&amp;width=1000&amp;name=OA_forms_lp_update.png 1000w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/OA_forms_lp_update.png?t=1519755076473&amp;width=1500&amp;name=OA_forms_lp_update.png 1500w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/OA_forms_lp_update.png?t=1519755076473&amp;width=2000&amp;name=OA_forms_lp_update.png 2000w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/OA_forms_lp_update.png?t=1519755076473&amp;width=2500&amp;name=OA_forms_lp_update.png 2500w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/OA_forms_lp_update.png?t=1519755076473&amp;width=3000&amp;name=OA_forms_lp_update.png 3000w" sizes="(max-width: 1000px) 100vw, 1000px"></span></div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell body-card" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell card-standard-title" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-3 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-header " style="" data-widget-type="header" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1489589313123500" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_header" style="" data-hs-cos-general-type="widget" data-hs-cos-type="header"><h1>Advanced Social Matching &amp; Influence Tracking</h1></span></div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-4 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-text card-subtext" style="" data-widget-type="text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1489589335296503" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="text">Get a 360-degree view of supporters, measure their social influence, and track engagement with detailed contact records and robust reports.</span></div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell card-standard-body" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-6 ">
+    <div class="row-fluid ">
+<div class="span6 widget-span widget-type-rich_text card-body-text" style="" data-widget-type="rich_text" data-x="0" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1489589263094494" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><ul>
+<li>
+<h3><a href="https://blog.ngpvan.com/product/expanded-social-matching"><strong>Advanced Social Matching</strong></a></h3>
+<p><span style="font-weight: 400;">With Social Matching,&nbsp;<span style="font-weight: 400;">Digital 8 takes any supporter record that has an email address and automatically matches it to dozens of social networks, including Facebook, Twitter, and LinkedIn.</span></span></p>
+</li>
+<li>
+<h3><strong>Multi-Channel Campaigns &amp;</strong> <a href="https://blog.ngpvan.com/product/engagement-points" target="_blank"><strong>Engagement Points</strong> </a></h3>
+<p><span style="font-weight: 400;">Cater individualized messages to supporters by ranking and measuring their involvement using Engagement Points. Use Campaigns to link efforts across multiple channels and monitor overall performance or drill down for channel-by-channel metrics</span>.</p>
+</li>
+<li>
+<h3><a href="https://blog.ngpvan.com/product/social-share-tracking"><strong>Social Share Tracking</strong></a></h3>
+<p><span style="font-weight: 400;">Encourage supporters to spread the word on Facebook or Twitter with social sharing tools available on each online form. Track the impact of those shares and identify which supporters drive action and generate new sign-ups</span>.</p>
+</li>
+<li>
+<h3><a href="https://blog.ngpvan.com/product/fb-events"><strong>Facebook Events</strong></a> &amp; <a href="https://blog.ngpvan.com/product/fb-ad-integration"><strong>Facebook Ads</strong></a><strong> Integrations</strong></h3>
+<p><span style="font-weight: 400;">Sync events to Facebook and easily track sign-ups in your database with this timesaving integration. Create custom target segments in Digital 8 then push them to Facebook for precisely targeted ad buys</span></p>
+</li>
+</ul></span>
+</div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+<div class="span6 widget-span widget-type-linked_image card-standard-image" style="" data-widget-type="linked_image" data-x="6" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1489589384391507" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Social%20Matching_NGP.png?t=1519755076473&amp;width=1000&amp;name=Social%20Matching_NGP.png" class="hs-image-widget " style="width:1000px;border-width:0px;border:0px;" width="1000" alt="Social Matching_NGP.png" title="Social Matching_NGP.png" srcset="https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Social%20Matching_NGP.png?t=1519755076473&amp;width=500&amp;name=Social%20Matching_NGP.png 500w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Social%20Matching_NGP.png?t=1519755076473&amp;width=1000&amp;name=Social%20Matching_NGP.png 1000w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Social%20Matching_NGP.png?t=1519755076473&amp;width=1500&amp;name=Social%20Matching_NGP.png 1500w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Social%20Matching_NGP.png?t=1519755076473&amp;width=2000&amp;name=Social%20Matching_NGP.png 2000w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Social%20Matching_NGP.png?t=1519755076473&amp;width=2500&amp;name=Social%20Matching_NGP.png 2500w, https://act.ngpvan.com/hs-fs/hubfs/Product%20Marketing/Digital%208/Social%20Matching_NGP.png?t=1519755076473&amp;width=3000&amp;name=Social%20Matching_NGP.png 3000w" sizes="(max-width: 1000px) 100vw, 1000px"></span></div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell body-card" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell card-standard-title" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-3 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-header " style="" data-widget-type="header" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1491592744012495" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_header" style="" data-hs-cos-general-type="widget" data-hs-cos-type="header"><h1>More Tools &amp; Features</h1></span></div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-5 ">
+    <div class="row-fluid ">
+<div class="span6 widget-span widget-type-rich_text card-body-text" style="" data-widget-type="rich_text" data-x="0" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1491592759977496" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><div style="padding-left: 30px;"><strong><span style="color: #000000; font-size: 18px;">Free Prospects</span></strong></div>
+<p style="padding-left: 30px;"><span style="font-weight: 400; font-size: 16px;">Automatically&nbsp;<span style="font-weight: 400;">import any email address your campaign adds to VoteBuilder into your Digital 8 database, growing your list for free.</span></span></p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<h3 style="padding-left: 30px;"><span style="color: #000000; font-size: 18px;">Pipeline for Analytics</span></h3>
+<p style="padding-left: 30px;"><span style="font-weight: 400; font-size: 16px;"><span style="font-weight: 400;">Digital 8 is integrated with Pipeline, our innovative system for large scale data transfers. Pipeline can be used to send real-time row-level database changes to analytics platforms where campaigns can do modeling, run advanced reports or combine digital data with our data sources. </span></span></p></span>
+</div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+<div class="span6 widget-span widget-type-rich_text card-body-text" style="" data-widget-type="rich_text" data-x="6" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1491592780878500" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><div style="padding-left: 30px;"><strong><span style="color: #000000; font-size: 18px;">Cloud-based Scaling</span></strong></div>
+<p style="padding-left: 30px;"><span style="font-weight: 400;">We’ve built our platform with campaigns in mind - Digital 8 is built in the cloud, making the entire platform scalable and resilient. </span></p>
+<h3 style="padding-left: 30px;">&nbsp;</h3>
+<h3 style="padding-left: 30px;"><span style="color: #000000; font-size: 18px;"><strong>Reports Manager</strong></span></h3>
+<p style="padding-left: 30px;"><span style="font-weight: 400; font-size: 16px;"><span style="font-weight: 400;">Get the answers to all your data questions with powerful, easy-to-use reporting - with pre-baked reports that can be customized, saved, shared and scheduled.</span></span></p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<h3 style="padding-left: 30px;"><span style="color: #000000; font-size: 18px;"><strong>Data Visualization</strong></span></h3>
+<p style="padding-left: 30px;"><span style="font-weight: 400; font-size: 16px;"><span style="font-weight: 400;"><span>Utilize fully customizable analytics dashboards to visualize, communicate, and share your organizing, email, and fundraising data like never before.&nbsp;</span> <a href="https://act.ngpvan.com/data-visualization">Read more.</a>&nbsp;</span></span></p></span>
+</div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell body-card" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell card-standard-title" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-3 ">
+    <div class="row-fluid ">
+<div class="span12 widget-span widget-type-header " style="" data-widget-type="header" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1489589849199601" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_header" style="" data-hs-cos-general-type="widget" data-hs-cos-type="header"><h1>Frequently Asked Questions</h1></span></div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-2 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-5 ">
+    <div class="row-fluid ">
+<div class="span6 widget-span widget-type-rich_text card-body-text" style="" data-widget-type="rich_text" data-x="0" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1489589810004596" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><div style="padding-left: 30px;"><strong><span style="color: #000000; font-size: 18px;">How is this different than NGP?</span></strong></div>
+<p style="padding-left: 30px;"><span style="font-weight: 400; font-size: 16px;">D<span>igital 8 is a set of brand-new digital tools, now available for NGP users. Users can choose to continue utilizing their NGP database for fundraising and compliance, while also using the new Digital 8 platform. Data from Digital 8 will be automatically pushed&nbsp;into NGP where applicable.</span></span></p>
+<p style="padding-left: 30px;">&nbsp;</p>
+<h3 style="padding-left: 30px;"><span style="color: #000000; font-size: 18px;">How is this different than VAN?</span></h3>
+<p style="padding-left: 30px;"><span style="font-weight: 400; font-size: 16px;"><span style="font-weight: 400;">Users can choose to continue utilizing their VAN database for organizing and volunteer management, while also using the new Digital 8 platform. Every emailable record from VAN’s My Campaign database with can be automatically moved into your Digital 8 database.</span></span></p>
+<br>
+<h3 style="padding-left: 30px;">&nbsp;</h3></span>
+</div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+<div class="span6 widget-span widget-type-rich_text card-body-text" style="" data-widget-type="rich_text" data-x="6" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1489589831054600" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h3 style="padding-left: 30px;"><span style="background-color: #ffffff; color: #000000; font-size: 18px;">Who can&nbsp;use these tools?</span></h3>
+<h3 style="padding-left: 30px;"><span style="font-weight: 400; font-size: 16px; color: #444444;"><span style="font-weight: 400;">Campaigns of all sizes can take advantage of Digital 8. The tools are available to candidates running for offices from city council to US Senate.</span></span></h3>
+<p>&nbsp;</p>
+<h3 style="padding-left: 30px;"><span style="color: #000000; font-size: 18px;">Are these tools integrated with other services I'm using?</span></h3>
+<p style="padding-left: 30px;"><span style="font-weight: 400; font-size: 16px; color: #444444;">Digital 8 is integrated with&nbsp;<span style="font-weight: 400;">over 200 third party tools you may already be using like Optimizely, Hustle, Revolution Messaging, ActBlue and many others. And if we haven’t already integrated with your tools of choice, we also offer extensive APIs through our innovation platform aimed at connecting even more tools.</span>&nbsp;</span></p>
+<p>&nbsp;</p>
+<h3 style="padding-left: 30px;"><span style="color: #000000; font-size: 18px;">Are these tools compatible with my website?</span></h3>
+<p style="padding-left: 30px;"><span style="font-weight: 400; font-size: 16px; color: #444444;">Yes!&nbsp;<span style="font-weight: 400;">You can embed our forms on any website, create fully customizable themes or wrappers for your forms, or even create your own form and post to our API endpoints. </span></span></p>
+<p style="padding-left: 30px;"><span style="font-weight: 400; font-size: 16px;">&nbsp;</span></p></span>
+</div><!--end layout-widget-wrapper -->
+       </div><!--end widget-span -->
+        </div><!--end row-->
+</div><!--end row-wrapper -->
+
+   </div><!--end widget-span -->
+    </div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end body -->
+</div><!--end body wrapper -->
+
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<!-- start coded_template: id:3523069882 path:generated_global_groups/3523069867.html -->
+<div class="" data-global-widget-path="generated_global_groups/3523069867.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="container">
+<div class="span12 widget-span widget-type-cell footer-top " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span1 widget-span widget-type-space " style="" data-widget-type="space" data-x="0" data-w="1">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14460702470092" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_space" style="" data-hs-cos-general-type="widget" data-hs-cos-type="space"></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span7 widget-span widget-type-rich_text tagline" style="" data-widget-type="rich_text" data-x="1" data-w="7">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14460702470093" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1>Our products power the biggest&nbsp;campaigns in the world. Let us help you win.</h1></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span4 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="8" data-w="4">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14460702470094" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><div class="footer-button">
+<a href="https://act.ngpvan.com/get-elected" class="btn btn-blue btn-lg">Find Out More</a>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+  </div>
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14460702470095" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><div class="footer-footer">
+<div class="container">
+<ul class="left">
+<li>Hello from Boston &amp; DC</li>
+</ul>
+<ul class="right">
+<li><a href="http://plus.ngpvan.com/privacy">Privacy Policy</a></li>
+<li>© 2016 NGP VAN</li>
+</ul>
+</div>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div><!-- end coded_template: id:3523069882 path:generated_global_groups/3523069867.html -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
+
+    
+<script type="text/javascript" src="https://static.hsstatic.net/content_shared_assets/static-1.4049/js/public_common.js"></script>
+
+        <!--[if lte IE 8]>
+        <script charset="utf-8" src="https://js.hsforms.net/forms/v2-legacy.js"></script>
+        <![endif]-->
+     
+<script src="https://js.hsforms.net/forms/v2.js"></script>
+
+    <script>
+        hbspt.forms.create({
+            portalId: '661521',
+            formId: '4cd8e9e6-db1e-47c4-8ff3-5c8cd5dbcb77',
+            formInstanceId: '7469',
+            pageId: 4945286340,
+            
+            
+            
+            
+            pageName: "Digital 8 by NGP VAN",
+            
+            
+            redirectUrl: "https:\/\/act.ngpvan.com\/digital-8-thank-you",
+            
+            
+            
+            
+            
+            css: '',
+            target: '#hs_form_target_main_form',
+            
+            
+            
+            
+            
+            contentType: "landing-page",
+            
+            formData: {
+            cssClass: 'hs-form stacked hs-custom-form'
+            }
+        });
+    </script>
+
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "landing-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/act.ngpvan.com\/digital8"]);
+_hsq.push(["setPageId", "4945286340"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 4945286340,
+    "legacyPageId": "4945286340",
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 4945286340,
+    "languageCode": null
+}]);
+_hsq.push(["setTargetedContentMetadata", []]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/661521.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    ticks: 1519882573154,
+    page_id: 4945286340,
+    content_group_id: 0,
+    portal_id: 661521,
+    app_hs_base_url: "https://app.hubspot.com",
+    language: "en",
+    analytics_page_type: "landing-page"
+}
+</script>
+
+
+
+<script src="https://act.ngpvan.com/hs-fs/hub/661521/hub_generated/template_resource/1446236376435/custom/page/web_page_basic/progress-fonts.js"></script>
+<script src="https://act.ngpvan.com/hs-fs/hub/661521/hub_generated/style_manager/1446063157037/custom/page/global/jquery.modal.min.js"></script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54b59a1019304b26" async></script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+
+
+
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+<!-- Editor Styles -->
+<style id="hs_editor_style" type="text/css">
+#hs_cos_wrapper_module_1486073654619550  { margin-top: 54px !important; display: block !important }
+#hs_cos_wrapper_module_148184032600380950  { margin-top: 54px !important; display: block !important }
+
+</style>
+
+<!-- end coded_template: id:4945144913 path:generated_layouts/4944888131.html -->
+</body></html>
